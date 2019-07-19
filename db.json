@@ -4,49 +4,79 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 40
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 31
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 13
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 13
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 12
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 14
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 19
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 9
+    },
+    {
+      "name": "Stinky Pete",
+      "image": "https://vignette.wikia.nocookie.net/kingdomheartsfanfiction/images/0/0a/Stinky-pete.png/revision/latest?cb=20150227012908",
+      "likes": 10,
+      "id": 44
+    },
+    {
+      "name": "Annabelle",
+      "image": "https://pbs.twimg.com/profile_images/1135734972684222464/_hzFVLjM_400x400.png",
+      "likes": -666,
+      "id": 46
+    },
+    {
+      "name": "Pennywise",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBLKtRiLXi0vxbjM6pTkoZuv42X3afMJxn1pM2__axa-r3OrmXUw",
+      "likes": -666,
+      "id": 47
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://cdn.imgbin.com/17/25/23/imgbin-mr-potato-head-toy-story-mrs-potato-head-sheriff-woody-andy-mrs-mrs-potato-head-toy-dZhMUJyDhh0N9q8Mw6UFHmJFc.jpg",
+      "likes": 8,
+      "id": 48
+    },
+    {
+      "name": "Zurg",
+      "image": "https://www.pinclipart.com/picdir/middle/87-874151_toy-story-clipart-zurg-personajes-de-toy-story.png",
+      "likes": 7,
+      "id": 49
     }
   ]
 }
